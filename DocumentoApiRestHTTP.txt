@@ -1,0 +1,11 @@
+Entrar a la API de Notilogia:
+
+www.notilogia.com/wp-json/wp/v2
+
+Entrar a los Posts de Notilogia:
+
+www.notilogia.com/wp-json/wp/v2/posts
+
+Entrar a las Etiquetas de Notilogia:
+
+www.notilogia.com/wp-json/wp/v2/posts/?filter[tag]=maduro
